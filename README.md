@@ -1,3 +1,15 @@
+# Kamiyama.rb 1 slide
+
+You can see this slide [here](http://kaosf.github.io/20141108-kamiyamarb-slide).
+
+## License
+
+`index.markdown`
+
+[CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+Copyright (C) 2014 ka
+
 # reveal.js forked by kaosf
 
 Version 2.5.0.0
