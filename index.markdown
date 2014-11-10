@@ -9,6 +9,11 @@
 神山.rb開催おめでとうございます
 
 
+このスライド自体のリポジトリは [kaosf/20141108-kamiyamarb-slide](https://github.com/kaosf/20141108-kamiyamarb-slide) にあります
+
+間違いを発見したら Issue あるいは PullRequest を下さい
+
+
 ## reduce
 
 Rubyistの皆さんこんなコード書いてませんか
